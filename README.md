@@ -13,6 +13,8 @@
 dart lib/cli.dart
 ```
 
+**Maybe you need to modify gas configuration in `Transaction`.**
+
 ## Optimize gas
 
 - just edit [maxFeePerGas, maxPriorityFeePerGas]
