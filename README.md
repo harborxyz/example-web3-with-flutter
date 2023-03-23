@@ -2,7 +2,7 @@
 
 ## Environments
 
-- network: polygonMumbai
+- network: polygonMumbai(chainId:80001)
 
 ## Test
 
